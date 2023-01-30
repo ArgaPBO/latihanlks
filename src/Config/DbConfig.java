@@ -8,7 +8,7 @@ import java.sql.*;
 import javax.swing.JOptionPane;
 /**
  *
- * @author User
+ * @author Arga 'Ahmad Mujahidin' Herlambang
  */
 public class DbConfig {
     public static Connection getConnection() {
