@@ -18,7 +18,7 @@ import javax.swing.DefaultComboBoxModel;
 
 /**
  *
- * @author User
+ * @author Arga 'Ahmad Mujahidin' Herlambang
  */
 public class CRUDtransportasi extends javax.swing.JFrame {
     Connection conn=DbConfig.getConnection();

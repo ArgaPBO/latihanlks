@@ -6,7 +6,7 @@ package Main;
 
 /**
  *
- * @author User
+ * @author Arga 'Ahmad Mujahidin' Herlambang
  */
 public class CRUD extends javax.swing.JFrame {
 

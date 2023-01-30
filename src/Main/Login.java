@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author User
+ * @author Arga 'Ahmad Mujahidin' Herlambang
  */
 public class Login extends javax.swing.JFrame {
 

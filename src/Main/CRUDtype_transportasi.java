@@ -16,7 +16,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author User
+ * @author Arga 'Ahmad Mujahidin' Herlambang
  */
 public class CRUDtype_transportasi extends javax.swing.JFrame {
     Connection conn=DbConfig.getConnection();
